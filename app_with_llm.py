@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 
 # Load the YOLO model
-model = YOLO('runs/detect/train28/weights/best.pt')
+model = YOLO('best_model_without_freeze.pt')
 
 # Create "reports" and "report_images" folders if they don't exist
 if not os.path.exists('reports'):
