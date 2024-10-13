@@ -5,3 +5,4 @@ Pillow
 ultralytics
 pandas
 google-generativeai
+python-dotenv
