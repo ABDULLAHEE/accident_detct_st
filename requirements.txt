@@ -1,5 +1,6 @@
 
-opencv-python-headless
+opencv-python
 numpy
 Pillow
 ultralytics
+pandas
