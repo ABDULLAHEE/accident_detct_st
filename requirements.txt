@@ -4,4 +4,4 @@ numpy
 Pillow
 ultralytics
 pandas
-google-generative-ai
+google-generativeai
